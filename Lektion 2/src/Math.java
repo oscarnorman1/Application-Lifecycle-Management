@@ -8,9 +8,8 @@ public class Math {
         return a * b;
     }
 
-    public int divide(int a, int b) {
+    public float divide(float a, float b) {
         return a / b;
     }
-
-
+    
 }
