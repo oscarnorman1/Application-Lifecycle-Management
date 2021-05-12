@@ -10,6 +10,7 @@ public class Math {
 
     public float divide(float a, float b) {
         return a / b;
+        
     }
     
 }
